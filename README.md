@@ -14,4 +14,4 @@ This means:
 - All rights remain with the author.  
 - Usage outside of personal viewing is prohibited unless granted in writing.  
 
-© [Your Name], 2025. All rights reserved.
+© Jonh09, 2025. All rights reserved.
