@@ -8,9 +8,9 @@ Minecraft itself just turned 16 years old. That's ancient in gaming years; most 
 
 Don't get me wrong, vanilla Minecraft is fantastic. Mojang has done an incredible job with updates like the Tricky Trials and the recent Copper Age additions. But let's be real: vanilla updates once or twice a year, adding a handful of new features each time. Meanwhile, the modded community is pumping out content at warp speed.
 
-Here is a quick comparison between a early-game Vanilla base VS what would be considered a early-game base in Modded.
+Here is a quick comparison between an early-game Vanilla base VS what would be considered an early-game base in Modded.
 
-![Comparison between a Vanilla base and a Modded base at early game](images/BasevsModdedBase.png)
+![Comparison between a Vanilla base and an Modded base at early game](images/BasevsModdedBase.png)
 
 We see some magic stuff, storage systems, and what looks like industrial-scale smelting?
 Yeah...
@@ -32,7 +32,7 @@ The beauty of modded Minecraft in 2025 isn't just about individual mods anymore,
 
 Take kitchen-sink packs like **All the Mods 10** or **Enigmatica 10**. These aren't just "throw 400 mods in and hope for the best" situations anymore. Modern kitchen-sink packs have sophisticated integration systems, unified ore generation, and carefully balanced progression. You can jump between **Modern Industrialization's** advanced tech and **Ars Nouveau's** spell crafting without feeling like you're playing two separate games.
 
-I introduce to you the ATM Star, the main objective of AllTheMods packs, it's the pinnacle of interconnection between mods.
+Let me introduce you to the ATM Star, the main objective of AllTheMods packs, it's the pinnacle of interconnection between mods.
 
 ![Picture of the ATM Star in the QuestBook on ATM10](images/star.png)
 
@@ -48,7 +48,7 @@ And let's not forget skyblock packs. You'd think the concept would get old, righ
 
 Playing modded solo is fun, but multiplayer? That's where the magic happens. There's something special about building a massive automated factory with friends, dividing tasks, and watching your collective base grow from a dirt hut to a sprawling industrial complex, be it underground, on the surface... or even on a space station.
 
-Modern modded servers have gotten incredibly sophisticated. Performance optimization tools like **Spark** and **Observable** let server admins track down lag sources and keep things running smooth even with 20+ players online. Mods like **FTB Chunks** let you claim and protect your builds, while **FTB Teams** makes collaboration seamless, you can share resources and grant base access to other people  , while still having the protection of **FTB Chunks**.
+Modern modded servers have gotten incredibly sophisticated. Performance optimization tools like **Spark** and **Observable** let server admins track down lag sources and keep things running smooth even with 20+ players online. Mods like **FTB Chunks** let you claim and protect your builds, while **FTB Teams** makes collaboration seamless, you can share resources and grant base access to other people, while still having the protection of **FTB Chunks**.
 
 ![Aerial view of a base made by multiple people](images/friends.png)
 
