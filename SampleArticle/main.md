@@ -86,7 +86,7 @@ Modded Minecraft has become more than just "vanilla with extra features." It's a
 
 The secret to modded Minecraft's longevity isn't complicated: as long as players dream bigger than what vanilla offers, modded Minecraft will have a place. Judging by the sheer ambition of projects like **GregTech: New Horizons**, the constant innovation in packs like **All the Mods**, and the endless creativity in mods like **Create**, those dreams aren't getting any smaller.
 
-Want to experience it for yourself, grab some friends (or just go in a community server) and pick a modpack that looks interesting (my current recommendation is **All the Mods 10** for players who like to have freedom, while still having a objective or one of the OG's, **SevTech: Ages**, a progression pack that takes you from the Stone Age to Space), and jump in. Setting up a server is easier than ever; you can have one running in literally minutes with the right hosting.
+Want to experience it for yourself? Grab some friends (or just join in a community server) and pick a modpack that looks interesting (my current recommendation is **All the Mods 10** for players who like to have freedom, while still having a objective or one of the OG's, **SevTech: Ages**, a progression pack that takes you from the Stone Age to Space), and jump in. Setting up a server is easier than ever; you can have one running in literally minutes with the right hosting.
 
 The modded Minecraft train isn't stopping anytime soon, and honestly? That's exactly how it should be. As long as there are blocks to place and mods to create, this community will keep building, automating, exploring, and pushing the boundaries of what's possible in a 16-year-old game about mining and crafting.
 
