@@ -1,0 +1,18 @@
+Title: Akliz's Christmas Mod Picks
+
+Hook/Intro
+
+
+    Thesis: 
+[Banner image]
+
+Sections
+    Section x:
+        Intro
+        Main 
+        Finish
+        [Image x]
+
+Call to action: Try it yourself
+
+Server setup easier than ever (mention akliz ofc)
