@@ -1,14 +1,12 @@
 # Akliz's Christmas Mod Picks
 
-## Hook / Intro
-
 You know that first glimpse of a snow-covered roof that suddenly turns your base into a storybook scene? That's the exact little moment holiday mods chase — small, deliberate touches that make builds feel lived-in and seasonal.
 
 These seven picks cover the full cozy toolkit: decorations, wearable cosmetics, edible treats, and playful mechanics (think sleds, gingerbread companions, and interactive trees). Below I’ll explain what each mod does and how to stitch them together so your world or server looks festive for this Christmas.
 
-**Tip:** If you plan to install mods that add many new crafting recipes or foods, we recommend installing JEI (Just Enough Items) to make recipe lookup and event setup much easier.
+**Tip:** If you plan to install mods that add many new crafting recipes or foods, we recommend JEI (Just Enough Items) to simplify recipe lookup and event setup.
 
-## Mod Intros
+Whether you're running a private survival realm, a small community, or a larger public server, these mods are chosen to be friendly to cooperative installs. My approach here was practical: pick one or two mods that change gameplay (Seasons Greetings, Snowy Spirit), a couple that add visual variety (Macaw's Holidays, Winterly), and one or two that provide roleplay / event affordances (Christmas Culinary, Maiden's Merry Making). That mix gives you immediate visual payoff without forcing players to relearn core mechanics.
 
 ## Macaw's Holidays
 
@@ -23,8 +21,9 @@ Why include it first: it fills the visual gaps faster than any single mod. Need 
 - **Use** the garlands and string lights to create natural-looking rooflines; ornaments and color variants keep repeat builds from looking identical.
 
 **Mod page:** [Macaw's Holidays](https://www.curseforge.com/minecraft/mc-mods/macaws-holidays)
-[IMAGE NOTE: Macaw's Holidays — tree, presents, garland close-up]
-![Macaw's tree and presents montage](images/macaws_tree_presents.png)
+![Christmas tree with presents and garlands from Macaw's Holidays](images/macaws.jpg)
+*Image pulled from the mod's CurseForge page.*
+
 
 ## Seasons Greetings
 
@@ -39,9 +38,8 @@ Why this one matters: it blends mechanics and charm. Want players to actually ca
 **Versions & Modloaders:** 1.21.1 | Fabric and NeoForge
 
 **Mod page:** [Seasons Greetings](https://www.curseforge.com/minecraft/mc-mods/seasons-greetings)
-
-[IMAGE NOTE: Seasons Greetings — gingerbread companion and decorated house]
-![Gingerbread companion next to a decorated gingerbread house](images/seasons_greetings_gingerbread.png)
+![Gingerbread companion beside a decorated gingerbread house (Seasons Greetings)](images/seasons.png)
+*Image pulled from the mod's CurseForge page.*
 
 ## Snowy Spirit
 
@@ -56,8 +54,8 @@ Snowy Spirit focuses on winter immersion with functional toys like sleds, ginger
 - **Configure** the winter-event timing if you run Serene Seasons or other seasonal mods so villagers and structures sync up.
 
 **Mod page:** [Snowy Spirit](https://www.curseforge.com/minecraft/mc-mods/snowy-spirit)
-[IMAGE NOTE: Snowy Spirit — sled and gingerbread golem]
-![Sled with chest and gingerbread golem](images/snowy_spirit_sled_golem.png)
+![Sled with attached chest and a gingerbread golem on snowy ground (Snowy Spirit)](images/snowy.png)
+*Image pulled from the mod's CurseForge page.*
 
 ## Winterly
 
@@ -71,8 +69,8 @@ Winterly is a lightweight, cosmetics-first holiday mod that focuses on wearables
 - **Gift boxes** double as small storage for Secret Santa events; color-code them for teams.
 
 **Mod page:** [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly)
-[IMAGE NOTE: Winterly — hats, scarves, icicles]
-![Winterly hats and icicles close-up](images/winterly_hats_icicles.png)
+![Player wearing a Santa hat next to icicles and winter props (Winterly)](images/winterly.png)
+*Image pulled from the mod's CurseForge page.*
 
 ## Christmas Culinary Desires & Decorations
 
@@ -87,8 +85,8 @@ Why include it: food is a simple, powerful immersion tool. A bakery lined with p
 - **For roleplay servers**, assign dishes to vendors or use dyeable gift boxes for team-based Secret Santa games.
 
 **Mod page:** [Christmas Culinary Desires & Decorations](https://www.curseforge.com/minecraft/mc-mods/christmas-culinary-desires-decorations)
-[IMAGE NOTE: Christmas Culinary — table of festive foods and bakery display]
-![Festive table with cakes, panettone, and hot drinks](images/christmas_culinary_table.png)
+![Table display with panettone, cakes, and hot drinks (Christmas Culinary Desires & Decorations)](images/culinary_desires.png)
+*Image pulled from the mod's CurseForge page.*
 
 ## Maiden's Merry Making
 
@@ -103,8 +101,8 @@ Why include it: Maiden's ties decoration to interaction — lights connect aroun
 - **Place** fireplace mantels in inns and meeting halls; they make great photo spots for events and accept stockings and small decor.
 
 **Mod page:** [Maiden's Merry Making](https://www.curseforge.com/minecraft/mc-mods/maidens-merry-making)
-[IMAGE NOTE: Maiden's Merry Making — decorated mantel and sectioned tree]
-![Mantel with stockings and a three-section customizable tree](images/maidens_mantel_tree.png)
+![Fireplace mantel with stockings and a three-section decorated tree (Maiden's Merry Making)](images/merry_making.png)
+*Image pulled from the mod's CurseForge page.*
 
 ## Dog Coats (Resource Pack)
 
@@ -118,8 +116,12 @@ Tiny but delightful: Dog Coats is a texture pack that dresses tamed wolves in fe
 - **Works great** alongside Maiden's Merry Making and Macaw's Holidays for cute, photo-ready scenes.
 
 **Pack page:** [Dog Coats](https://www.curseforge.com/minecraft/texture-packs/dog-coats)
-[IMAGE NOTE: Dog Coats — wolf in festive sweater]
-![Wolf wearing a festive sweater](images/dog_coats_wolf.png)
+![Tamed wolf wearing a red festive sweater (Dog Coats resource pack)](images/dogCoats.png)
+*Image pulled from the pack's CurseForge page.*
+
+Installation note: since it's client-side, remind players to add the pack before joining or provide a download link on your server's welcome page. It works alongside texture-changing mods but requires no code; for public servers, include a server-side reminder about the recommended pack to ensure everyone sees the same cozy wolves.
+
+
 
 ## Wrapping It Up
 
@@ -132,5 +134,7 @@ Anyway, that's what's keeping my pickaxe swinging this winter. Now if you'll exc
 
 ## So Where Do You Go After This?
 
-All of these mods are available in **CurseForge**, just make a new profile for 1.21.1 on NeoForge and you can install *all* of these in the same modpack!
-Want to try these out without the usual setup stress? Hosting a seasonal server is easier than ever — **Akliz** offers quick installs and solid support so you can get your friends together and start decorating in minutes.
+All of these mods are available on **CurseForge** — create a NeoForge profile for Minecraft 1.21.1 and install them together in a single modpack.
+
+Want to try these out on a server with friends without the usual setup stress? Hosting a seasonal server is easier than ever — **Akliz** offers quick installs and solid support so you can get your friends together and start decorating in minutes. 
+Ready to jolly everything up? [Start your Akliz server today!](https://www.akliz.net/pricing)
