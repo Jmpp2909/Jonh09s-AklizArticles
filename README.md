@@ -1,7 +1,6 @@
 # Akliz Blog Articles Backup/Sync
 
 Howdy, this is the repository I'll use to sync/backup all my articles written for Akliz.  
-I use [StackEdit.io](https://stackedit.io) for drafting if you’re interested.
 
 ---
 
