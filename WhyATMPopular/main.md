@@ -75,7 +75,7 @@ Now that you understand what AllTheMods actually is, I'm going to show you how i
 
 You wouldn't think that a Modpack made for friends would go too far. Well, neither did WTD when he published the first AllTheMods pack. 
 
-Surprisingly enough, it took the modded MC community by storm! While searching for what players said at the time, I found comments about *ATM1 - Remastered* like:
+Surprisingly enough, it took the modded MC community by storm! While searching for what players said at the time, I found comments about *All The Mods Expert: Remastered* like:
 
 > "What the drunk?! This has everything I've been looking for in a pack."
 
