@@ -37,9 +37,9 @@ I could go on and on, but I think you get the point. But it's not just tweaks th
 
 The main difference between normal quests and ATM quests is that in ATM, they aren't forcing you through a specific path; they are there just to teach you how a mod works and all it has to offer. Quests are always welcome, either for new players experiencing mods for the first time, or veterans needing a refresh on how to do something.
 
-ATM prioritizes simplicity, striving to keep it functional so any player can open the quests without getting a headache. 
+ATM prioritizes simplicity, striving to keep it functional and easy to read, so any player can open the quests without getting a headache. 
 
-Not only that, but quests aren't just TO-DO lists; they actually reward you for completing them, sometimes giving you powerful items or blocks that can propel your progression a lot. And with the sheer amount of quests, sometimes when you start a mod, you already have some of the resources needed to progress in it, saving you time and energy.
+Not only that, but quests aren't just TO-DO lists; they actually reward you for completing them, sometimes giving you useful items or blocks that can propel your progression a lot. And with the sheer amount of quests, sometimes when you start a mod, you already have some of the resources needed to progress in it, saving you time and energy.
 
 ![ATM Questline example](images/quests.png)
 
@@ -67,7 +67,7 @@ That's right, you can create a bee to make ATM Stars, which can be made for the 
 
 This is the ultimate objective of the pack, but you choose: Are you more laid back and prefer to get one and call it a day, or will you master the beautiful thing that is automation, and possibly learn about even *more* mods?
 
-Well, whichever you choose, the actual objective of the pack is (wait for it)... **have fun**. Yup, that's what actually started AllTheMods. Having fun IS the main objective; you don't need to be the best, or the fastest, or whatever. All that matters is that you have fun and learn many things while doing it.
+Well, whichever you choose, the actual objective of the pack is (wait for it)... **have fun**. Yup, that's what actually started AllTheMods. Having fun **IS** the main objective; you don't need to be the best, or the fastest, or whatever. All that matters is that you have fun and learn many things while doing it.
 
 Now that you understand what AllTheMods actually is, I'm going to show you how it became so popular.
 
@@ -105,7 +105,7 @@ Ever seen something broken in a Modpack, or felt like there is something missing
 
 This is one of the examples of such contributions. Some are small, some are big, but all are welcome.
 
-Remember me talking about quests? Well, a lot of them are made by players who want to help new players starting the mod thrive in it. They enjoyed a mod so much that they ended up making a whole guide on it.
+Remember me talking about quests? Well, a lot of them are made by experienced players who want to help new players learn about mods. They enjoyed a mod so much that they ended up making a whole guide on it.
 
 ATM won't leave them by themselves, though; they will grant these players a seat in the Quest Development channels so they get the help they need, or even express their opinions about other quests being designed. This is how the quests end up sounding so natural; it's a collaboration between the players and the devs, both working as one!
 
@@ -115,7 +115,7 @@ With Minecraft being such a global sensation, and everything being in English, a
 
 Knowing that, ATM pushed to create their own Translation Department, where players from all over the world can make translations for the quests in the Modpacks. And even in the current days when AI is all the talk, they will not let it ruin the beauty that is the questing system.
 
-To facilitate and motivate translations, they have a specific area within the Discord server where they offer extensive guides and direct support to translators, so players can focus solely on translating and let ATM handle the complicated stuff.
+To facilitate and motivate translations, they have a specific area within the Discord server where they offer extensive guides and direct support to translators, so they can focus solely on translating and let ATM handle the complicated stuff.
 
 As a small show of gratitude, they give out a unique role within the Discord server and mention translators in-game plus in changelogs, effectively immortalizing them in ATM's legacy.
 
@@ -131,10 +131,10 @@ It's this level of collaboration that ATM strives to achieve, which ends up not 
 
 ## Wrapping Up
 
-All this is to say that ATM didn't just spawn at the top of the charts. The team worked their way through challenges, collaborated directly with the community, and constantly strived to make Modpacks genuinely fun to play.
+All this is to say that ATM didn't just spawn at the top of the charts. The team worked their way through challenges, collaborated directly with the community, and constantly strived to make Modpacks that are genuinely fun to play.
 
-Speaking of fun, did you know the ATM team takes special care to optimize their packs for both servers and players alike? Because of this dedication, you don't actually need a NASA computer to run 400+ mods, which makes hosting a server for your friends incredibly easy.
+Speaking of fun, did you know the ATM team takes special care to optimize their packs for both servers and players alike? Because of this dedication, you don't actually need a NASA computer to run 400+ mods, which makes playing with friends incredibly easy.
 
-If this inspired you to go play an ATM Modpack (or any Modpack, for that matter), maybe invite some friends over! If you want a server host that will handle any Modpack with no lag or hassle, look no further than **Akliz**. They have been doing this for over a decade. Since they are players themselves, they know exactly what's up and won't just tell you to go talk to the mod developers. They will actually get their hands dirty to fix your problem, be it a simple config error or full-blown chunk corruption. They also happen to have direct contact with the ATM development team, meaning they can resolve your issues faster than any other host you might find. [Start your **Akliz** server today.](https://www.akliz.net/pricing)
+If this inspired you to go play an ATM Modpack (or any Modpack, for that matter), maybe invite some friends over! If you want a server host that will handle any Modpack with no lag or hassle, look no further than **Akliz**. They have been doing this for over a decade. Since they are players themselves, they know exactly what's up and won't just tell you to go talk to the mod developers. **Akliz Support** will actually get their hands dirty to fix your problem, be it a simple config error or full-blown chunk corruption. They also happen to have direct contact with the ATM development team, meaning they can resolve your issues faster than any other host you might find. [Start your **Akliz** server today.](https://www.akliz.net/pricing)
 
 **Anyway, this is what's keeping me causing nuclear fallouts in 2026. See you around in the modded dimension!**
