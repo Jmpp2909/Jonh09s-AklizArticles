@@ -55,10 +55,23 @@ Are you more laid back and prefer to get one and call it a day, or will you mast
 
 Well, whichever you choose, the actual objective of the pack is: wait for it... **have fun**. Yup, that's what actually started AllTheMods, having fun IS the main objective, you don't need to be the best, or the fastest, or whatever... all that matters is that you have fun, and learn many things while doing it.
 <br><br>
-Now that you understand what AllTheMods actually is, I'm going to show you how it came to be and became so popular.
-
-Content Creators
-Contributors (pack and quests)
+Now that you understand what AllTheMods actually is, I'm going to show you how it became so popular.
+<br><br>
+The Community: A Perpetual Motion Machine<br>
+You wouldn't think that a modpack made for friends would go too far, well, neither did WTD when he published the first AllTheMods pack. <br>
+Surprisingly enough, it took the Modded MC community by storm! 
+While searching for what players said at the time, I found comments about *ATM1 - Remastered* like
+> "What the drunk?! This has everything I've been looking for in a pack."<br>
+> "just played through the first page of the quest book - it's really polished and well put together, having a blast! thank you!"<br>
+> "...I've been looking forward to this since I found the beta play through that ChosenArchitect has been doing" <br>
+Hold on, notice how someone talked about ChosenArchitect? For those who don't know, ChosenArchitect is one of the most popular Modded MC content creators nowadays. 
+<br>This shows how content creators were a big part of what made ATM get so popular. Players would watch a Beta gameplay of a pack, and would instantly feel the urge to play it. Aside from progression-based packs, there really weren't many options for a polished kitchen sink experience, that's what made ATM unique.<br><br>
+With the growth of the community, there is more happening than just downloads, there is players who actually want to contribute to the pack!
+<br><br>
+Contributors: By The Players, For The Players<br>
+Ever seen something broken in a modpack, or felt like there is something missing? That's how many of contributors or even actual ATM developers came to be: they wanted to fix something broken, so they just fixed it, and WTD would promptly accept it and push it in the next update.
+> "Added the StartServer.sh to server files (Thanks to Dijkstra1 and OrdinatorStouff)"
+This is one of the examples of such contributions, some are small, some are big, but all are welcome
 Translations
 Collaboration with mod devs
 
