@@ -18,3 +18,10 @@ Conclusion:
 The secret: 
 Call to action:
 Server setup easier than ever (mention akliz ofc)
+
+---
+Include bliss, and complementary
+https://www.curseforge.com/minecraft/shaders/bliss-shader
+
+https://www.curseforge.com/minecraft/shaders/complementary-unbound
+https://www.curseforge.com/minecraft/shaders/complementary-reimagined
