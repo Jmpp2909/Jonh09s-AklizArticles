@@ -62,27 +62,32 @@ These are the shader packs I hand-picked for this article.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
    - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
    - Great for players who want a polished, cinematic look and don’t want to swap between different shader systems.
+   ![Complementary Unbound](images/Unbound.jpg)
+   ![Complementary Reimagined](images/Reimagined.jpg)
 
 2. **Bliss Shaders**
    - A strong balance of beautiful visuals and good performance.
    - The skies are clean, the lighting is smooth, and it still runs well on mid-range PCs.
    - Excellent for modded bases where you want dramatic light without too much GPU stress.
+   ![Text](images/Bliss.jpg)
 
 3. **BSL Shaders**
    - A reliable classic.
    - Great mid-range performance and a crisp, polished look.
    - Works well with most modded packs and is a solid choice if you want something dependable.
+   ![Text](images/BSL.jpg)
 
 4. **Sildur's Vibrant Shaders**
    - Quality performance with customizable detail levels.
    - Use the Medium or Enhanced presets for a good balance in modded environments.
    - It’s especially good on packs where you want a colorful, vibrant world.
+   ![Text](images/Sildur.jpg)
 
 5. **MakeUp Ultra Fast**
    - If your PC needs mercy, this one is for you.
    - It still gives you that shader feel with much lower performance cost.
    - Great for players who want subtle improvements without turning their PC into a room heater.
-
+   ![Text](images/MakeUp.jpg)
 
 
 
