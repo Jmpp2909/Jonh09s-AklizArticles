@@ -62,8 +62,14 @@ These are the shader packs I hand-picked for this article.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
    - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
    - Great for players who want a polished, cinematic look and don’t want to swap between different shader systems.
-   ![Complementary Unbound](images/Unbound.jpg)
-   ![Complementary Reimagined](images/Reimagined.jpg)
+
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
+  <img src="images/Unbound.jpg" alt="Complementary Unbound - smoother, natural tones" width="480" />
+  <img src="images/Reimagined.jpg" alt="Complementary Reimagined - sharper, dramatic tones" width="480" />
+</div>
+
+- **Left (Unbound):** smoother, more natural lighting and softer bloom.
+- **Right (Reimagined):** sharper contrast, punchier shadows, more cinematic color grading.
 
 2. **Bliss Shaders**
    - A strong balance of beautiful visuals and good performance.
@@ -89,12 +95,38 @@ These are the shader packs I hand-picked for this article.
    - Great for players who want subtle improvements without turning their PC into a room heater.
    ![Text](images/MakeUp.jpg)
 
+## How To Use Them
+
+Okay, I have given you a lot of information, but I didn't tell you the most critical information: How to actually get shaders running. Now is the time we grab the mods I talked about earlier, and do something with them.
+
+If you're running a modpack, the combo that usually works everywhere is:
+- `Sodium` ⇾ The graphics "engine" to replace the basic vanilla one.
+- `Iris` ⇾ Your shader manager and loader.
+- A compatible shader pack, like one of the ones I talked about earlier.
+  
+> Note: Always check if the modpack you are running doesn't already have these or similar mods on them, to avoid conflicts.
+
+Make sure to check out the Shaders Settings, most Shaders have at least a basic set of configurations, for you to tweak as you like it, or to improve performance.
+
+Some shaders like the Complementary series also have profiles you can choose: from Potato, if you just want the basic stuff or want to keep your computer from blowing up; all the way up to the Ultra profile, which will give you **the** definitive high-quality visuals you deserve ("I paid for the whole PC, I'm gonna use the *whole* PC" type stuff).
 
 
+## But Why Is a Server Host Saying All Of This?
 
+Well, for starters, if you are a Modded Minecraft player, you know how heavy Modpacks run, which is what servers are for. 
+When you play in Single-player, you are technically hosting a server on your own PC, which has to handle *everything* from Chunk Loading, Automations, Mobs ticking, and all the logic going in the background. 
 
-Conclusion: The Secret to Smooth Modded Multiplayer
- Call to Action (Akliz Integration):  Setting up a server for a heavy modpack is easier than ever. 
-     While your GPU handles the beautiful Complementary god rays, let Akliz handle the heavy lifting of chunk loading and entity ticking on the server side. 
-     Mention that Akliz servers support any modpack with one-click installs, so you can just focus on enjoying the views.
- Outro: Signature sign-off - Anyway, this is what's keeping my graphics card warm in 2026. See you in the beautifully lit dimension
+With that much load going on, stuff that actually impacts your experience, like Shaders, will be dealt the short end of the stick.
+
+### Where Does Akliz Come In
+
+With a server, you don't have to worry about *any* of that stuff. Your PC can fully focus on giving you stable FPS, as well as give you enough space to fit in some beautiful shaders, without making your game look like a slideshow presentation.
+
+Not only that, but Akliz does all the technical stuff for you: gone are the days you need to juggle around Java installations, run scripts, and manually back up stuff.
+And if you plan on playing with your friends, even better! With a couple of clicks, you can easily start up a server on any Minecraft / Modpack version, and be playing in no time.
+With the best server-grade hardware, automatic off-site backups (so even if something happens Akliz side, your world will be secure) and an expert team, your experience is guaranteed to be amazing.
+They have been doing this for over a decade. And since they are players themselves, they know exactly what's up, and will get down to fixing your server if stuff goes wrong.
+
+All this to say: Let Akliz handle the heavy and technical stuff, so you can just focus on taking screenshots of your world and doing whatever you want, without worrying about lag.
+
+**Anyway, this is what's keeping me hooked on Modded Minecraft in 2026. See you around in the modded dimension!**
