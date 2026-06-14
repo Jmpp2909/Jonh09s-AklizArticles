@@ -4,7 +4,7 @@ Imagine this: you just spent a weekend building a massive factory, a floating wi
 
 Then you watch a creator on YouTube playing the same pack, and their world looks **amazing**. God rays going through the trees. Water reflecting the sky like actual water. Shadows actually have depth, not the usual blocky vanilla shadows. Suddenly their build looks like it's straight out of a trailer, and your world feels like... a screenshot from a different game.
 
-__What do they have that you don't? You aren't missing a mod — you're missing Shaders.__
+**What do they have that you don't? You aren't missing a mod — you're missing Shaders.**
 
 ## What Actually Are Shaders?
 Before you blindly jump into using Shaders, I want to get some basic concepts down.
@@ -18,9 +18,9 @@ This is especially powerful in modded Minecraft. Big build projects, glowing mac
 
 ## A Brief History of Melting PCs
 
-There was a time when Shaders meant one thing: **OptiFine**. It was the go-to thing (*and... well... the only thing*), and it did a lot right for it's time. But it also had a **rough reputation** for compatibility issues, especially with modded packs.
+There was a time when Shaders meant one thing: **OptiFine**. It was the go-to thing (*and... well... the only thing*), and it did a lot right for its time. But it also had a **rough reputation** for compatibility issues, especially with modded packs.
 
-OptiFine wasn't just about Shaders tho. It also packed optimizations, FPS tweaks, better fog control, and performance options that helped players have actual decent FPS and an enjoyable session. For a while, it was *the* mod people installed when they wanted both prettier graphics and a smoother game.
+OptiFine wasn't just about Shaders though. It also packed optimizations, FPS tweaks, better fog control, and performance options that helped players have actual decent FPS and an enjoyable session. For a while, it was *the* mod people installed when they wanted both prettier graphics and a smoother game.
 
 In the early days, adding Shaders to a modpack often felt like a gamble. You could spend an hour trying to get the launcher to stop crashing, or dealing with weird graphical issues. That time was the Dark Ages for people who just wanted their world to look better.
 
@@ -34,28 +34,29 @@ OptiFine was the OG, but time didn't go easy on it. The new generation of high p
 - **Iris** and **Oculus**: The modern Shader loaders. They act like a bridge between the game and Shader packs.
 - **ModernFix**: Overall performance mod that keep your frame rate sane and lowers memory usage, while the Shaders are doing heavy work.
 
-That means you can run massive modpacks with beautiful graphics without your game turning into a slideshow and your computer cosplaying as an expensive space heater.
+That means you can run massive modpacks with beautiful graphics, without your game turning into a slideshow and your computer cosplaying as an expensive space heater.
 
 ## Pros and Cons in Modded Minecraft
 
 Shaders are awesome, *but* they come with **tradeoffs**. Here's the quick version:
 
-- Pro: Builds look amazing. Your base goes from meh to cinematic.
-- Pro: Water, shadows, and skies look amazing.
-- Pro: Even simple scenes look better and more immersive.
-- Con: Shaders can be hard on your GPU and Memory.
-- Con: Not every Shader pack plays nicely with every mod.
-- Con: You may need to tweak settings to balance visuals and performance.
+| | |
+|---|---|
+| ✅ **Builds look cinematic** | Your base goes from flat to stunning with almost no extra effort. |
+| ✅ **Water, shadows, and skies** | These three alone make the world feel genuinely alive. |
+| ✅ **Works on simple scenes too** | Even a basic forest or cave gets a massive immersion boost. |
+| ❌ **GPU and memory cost** | Shaders are doing real work — your hardware will feel it. |
+| ❌ **Mod compatibility varies** | Not every Shader pack plays nicely with every mod or pack. |
+| ❌ **Needs tuning** | You'll likely need to adjust settings to hit your sweet spot. |
 
-The **good news** is that modern Shader packs are better optimized than ever. Depending on the Shader, you can get gorgeous visuals without catastrophic FPS loss with any Computer. And if you are playing on a server? Let the server handle the heavy world logic, and let your GPU handle the view.
+The **good news** is that modern Shader packs are better optimized than ever. Depending on the Shader, you can get gorgeous visuals without catastrophic FPS loss with any computer. And if you are playing on a server? Let the server handle the heavy world logic, and let your GPU handle the view.
 
-Not only that, but the great majority of Shader packs comes with **different Profiles**, so you can choose what level of quality you want, without having to spend an hour looking up settings and manually adjusting values.
+Not only that, but the great majority of Shader packs come with **different Profiles**, so you can choose what level of quality you want, without having to spend an hour looking up settings and manually adjusting values.
 
-With that out of the way, this is the part you are here for probably.
+With that out of the way, this is probably the part you are here for.
 
 ## Top 5 Shader Packs
-- **On the Left (Unbound):** smoother, more natural lighting and softer bloom.
-- **Right (Reimagined):** sharper contrast, punchier shadows, more cinematic colors.
+
 These are the Shader packs I hand-picked for this article.
 
 1. **Complementary Unbound / Complementary Reimagined**
@@ -63,11 +64,11 @@ These are the Shader packs I hand-picked for this article.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
    - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
    - Either of them is great for players who want a polished, cinematic look and don’t want to swap between different Shader systems.
-<!-- 
-Please adjust the images as you see fit,
-or tell me if you'd prefer a different disposition, 
-I have all the original images separate, these are just collages  
--->
+     <!-- 
+   Please adjust the images as you see fit,
+   or tell me if you'd prefer a different disposition, 
+   I have all the original images separate, these are just collages  
+   -->
 
    <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
       <img src="images/Unbound.jpg" alt="Complementary Unbound - smoother, natural tones" width="480" />
@@ -81,33 +82,33 @@ I have all the original images separate, these are just collages
    - A strong balance of beautiful and dramatic visuals, and good performance.
    - The skies are clean, the lighting is smooth, and it still runs well on mid-range PCs.
    - Excellent for modded bases where you want dramatic light without too much GPU stress.
-   ![Text](images/Bliss.jpg)
+   ![Bliss Shaders — dramatic visuals and smooth lighting in a modded environment](images/Bliss.jpg)
 
 3. **BSL Shaders**
    - A reliable classic.
    - Great mid-range performance and a crisp, polished look.
    - Works well with most modded packs and is a solid choice if you want something dependable.
-   ![Text](images/BSL.jpg)
+   ![BSL Shaders — crisp, polished look in a modded environment](images/BSL.jpg)
 
 4. **Sildur's Vibrant Shaders**
    - Quality performance with customizable detail levels.
    - Tweak the settings as you see fit for a good balance in modded environments.
    - It’s especially good on packs where you want a colorful, vibrant world.
-   ![Text](images/Sildur.jpg)
+   ![Sildur's Shaders - good visuals and performance in a modded environment](images/Sildur.jpg)
 
 5. **MakeUp Ultra Fast**
    - If your PC needs mercy, this one is for you.
-   - It still gives you that Shader feel with much lower performance cost.
+   - It still gives you that Shaders feel with much lower performance cost.
    - Great for players who want subtle improvements without turning their PC into a room heater.
-   ![Text](images/MakeUp.jpg)
+   ![MakeUp Shaders - Low-resources Shader feel in a modded environment](images/MakeUp.jpg)
 
 ## How To Use Them
 
-Okay, I have given you a lot of information, but I didn't tell you the most critical detail: __How to actually get Shaders running__. Now is the time we grab the mods I talked about earlier, and do something with them.
+Okay, I have given you a lot of information, but I didn't tell you the most critical detail: **How to actually get Shaders running**. Now is the time we grab the mods I talked about earlier, and do something with them.
 
 If you're running a modpack, the combo that usually works everywhere is:
 - `Sodium` ⇾ The graphics "engine" to replace the basic vanilla one.
-- `Iris` ⇾ Your Shader manager and loader.
+- `Iris` ⇾ Your Shaders manager and loader.
 - A compatible Shader pack, like one of the ones I talked about earlier.
   
 > Note: Always check if the modpack you are running doesn't already have these or similar mods on them, to avoid conflicts.
@@ -116,17 +117,19 @@ Make sure to check out the **Shaders Settings**, most Shaders have at least a ba
 
 Some Shaders like the Complementary series also have profiles you can choose: from Potato, if you just want the basic stuff or want to keep your computer from blowing up; all the way up to the Ultra profile, which will give you **the** definitive high-quality visuals you deserve ("I paid for the whole PC, I'm gonna use the *whole* PC" type stuff).
 
+With that said, if you've ever wondered how some players are running heavy packs with Shaders effortlessly, when you struggle to get even the most basic Shaders working decently, the answer usually comes down to one thing: they aren't doing it alone. Which takes us to the next section.
 
 ## But Why Is a Server Host Saying All Of This?
 
 Well, for starters, if you are a Modded Minecraft player, you know how heavy Modpacks run, which is what servers are for. 
+
 When you play in Single-player, you are technically hosting a server on your own PC, which has to handle *everything* from Chunk Loading, Automations, Mobs ticking, and all the logic going in the background. 
 
 With so many things going on, stuff that actually impacts your experience, like Shaders, will be dealt the short end of the stick.
 
 ### Where Does Akliz Come In
 
-With a server, you don't have to worry about *any* of that stuff. Your PC can fully focus on giving you stable FPS, as well as give you enough space to fit in some beautiful Shaders, without making your game look like a slideshow presentation.
+With a server, you don't have to worry about *any* of that stuff. Your PC can fully focus on giving you stable FPS, as well as free up enough headroom to fit in some beautiful Shaders, without making your game look like a slideshow presentation.
 
 Not only that, but Akliz does all the technical stuff for you: gone are the days you need to juggle around Java installations, run scripts, and manually back up stuff.
 And if you plan on playing with your friends, even better! With a couple of clicks, you can easily start up a server on any Minecraft / Modpack version, and be playing in no time.
