@@ -59,16 +59,17 @@ With that out of the way, this is probably the part you are here for.
 
 These are the Shader packs I hand-picked for this article.
 
-1. **Complementary Unbound / Complementary Reimagined**
-   - Top spot for a reason: same engine, two different vibes.
-   - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
-   - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
-   - Either of them is great for players who want a polished, cinematic look and don’t want to swap between different Shader systems.
      <!-- 
    Please adjust the images as you see fit,
    or tell me if you'd prefer a different disposition, 
    I have all the original images separate, these are just collages  
    -->
+
+1. **Complementary Unbound / Complementary Reimagined**
+   - Top spot for a reason: same engine, two different vibes.
+   - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
+   - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
+   - Either of them is great for players who want a polished, cinematic look and don’t want to swap between different Shader systems.
 
    <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
       <img src="images/Unbound.jpg" alt="Complementary Unbound - smoother, natural tones" width="480" />
