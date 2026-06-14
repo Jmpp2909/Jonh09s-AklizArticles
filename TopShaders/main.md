@@ -59,8 +59,6 @@ With that out of the way, this is probably the part you are here for.
 
 These are the Shader packs I hand-picked for this article.
 
-     <!-- Please adjust the images as you see fit, or tell me if you'd prefer a different disposition, I have all the original images separate, these are just collages  -->
-
 1. **Complementary Unbound / Complementary Reimagined**
    - Top spot for a reason: same engine, two different vibes.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
