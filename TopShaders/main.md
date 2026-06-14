@@ -96,7 +96,7 @@ These are the Shader packs I hand-picked for this article.
 5. **MakeUp Ultra Fast**
    - If your PC needs mercy, this one is for you.
    - It still gives you that Shaders feel with much lower performance cost.
-   - Great for players who want subtle improvements without turning their PC into a room heater.
+   - Great for players who want subtle improvements without turning their PC into a space heater.
    ![MakeUp Shaders - Low-resources Shader feel in a modded environment](images/MakeUp.jpg)
 
 ## How To Use Them
@@ -122,9 +122,9 @@ Well, for starters, if you are a Modded Minecraft player, you know how heavy Mod
 
 When you play in Single-player, you are technically hosting a server on your own PC, which has to handle *everything* from Chunk Loading, Automations, Mobs ticking, and all the logic going in the background. 
 
-With so many things going on, stuff that actually impacts your experience, like Shaders, will be dealt the short end of the stick.
+With so many things going on, stuff that actually impacts your experience, like Shaders, will be given the short end of the stick.
 
-### Where Does Akliz Come In
+## Where Does Akliz Come In
 
 With a server, you don't have to worry about *any* of that stuff. Your PC can fully focus on giving you stable FPS, as well as free up enough headroom to fit in some beautiful Shaders, without making your game look like a slideshow presentation.
 
