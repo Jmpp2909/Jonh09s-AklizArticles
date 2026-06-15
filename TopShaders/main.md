@@ -30,9 +30,9 @@ Now we have a better setup. Modern Shader-compatible mods let you run Shaders mo
 
 OptiFine was the OG, but time didn't go easy on it. The new generation of high performance and Shader-friendly mods is what matters for modded Minecraft today.
 
-- **Sodium** and **Embeddium**: Performance-focused rendering improvements. They make Minecraft feel smoother before Shaders even start.
-- **Iris** and **Oculus**: The modern Shader loaders. They act like a bridge between the game and Shader packs.
-- **ModernFix**: Overall performance mod that keeps your frame rate sane and lowers memory usage, while the Shaders are doing heavy work.
+- [**Sodium**](https://www.curseforge.com/minecraft/mc-mods/sodium) and [**Embeddium**](https://www.curseforge.com/minecraft/mc-mods/embeddium): Performance-focused rendering improvements. They make Minecraft feel smoother before Shaders even start.
+- [**Iris**](https://www.curseforge.com/minecraft/mc-mods/irisshaders) and [**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus): The modern Shader loaders. They act like a bridge between the game and Shader packs.
+- [**ModernFix**](https://www.curseforge.com/minecraft/mc-mods/modernfix): Overall performance mod that keeps your frame rate sane and lowers memory usage, while the Shaders are doing heavy work.
 
 That means you can run massive modpacks with beautiful graphics, without your game turning into a slideshow and your computer cosplaying as an expensive space heater.
 
@@ -59,7 +59,7 @@ With that out of the way, this is probably the part you are here for.
 
 These are the Shader packs I hand-picked for this article.
 
-1. **Complementary Unbound / Complementary Reimagined**
+1. [**Complementary Unbound**](https://www.curseforge.com/minecraft/shaders/complementary-unbound) / [**Complementary Reimagined**](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)
    - Top spot for a reason: same engine, two different vibes.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
    - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern modpacks.
@@ -73,25 +73,25 @@ These are the Shader packs I hand-picked for this article.
    - **On the Left (Unbound):** smoother, more natural lighting and softer bloom.
    - **Right (Reimagined):** sharper contrast, punchier shadows, more cinematic colors.
 
-2. **Bliss Shaders**
+2. [**Bliss Shaders**](https://www.curseforge.com/minecraft/shaders/bliss-shader)
    - A strong balance of beautiful and dramatic visuals, and good performance.
    - The skies are clean, the lighting is smooth, and it still runs well on mid-range PCs.
    - Excellent for modded bases where you want dramatic light without too much GPU stress.
    ![Bliss Shaders — dramatic visuals and smooth lighting in a modded environment](images/Bliss.jpg)
 
-3. **BSL Shaders**
+3. [**BSL Shaders**](https://www.curseforge.com/minecraft/shaders/bsl-shaders)
    - A reliable classic.
    - Great mid-range performance and a crisp, polished look.
    - Works well with most modded packs and is a solid choice if you want something dependable.
    ![BSL Shaders — crisp, polished look in a modded environment](images/BSL.jpg)
 
-4. **Sildur's Vibrant Shaders**
+4. [**Sildur's Vibrant Shaders**](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)
    - Quality performance with customizable detail levels.
    - Tweak the settings as you see fit for a good balance in modded environments.
    - It’s especially good on packs where you want a colorful, vibrant world.
    ![Sildur's Shaders - good visuals and performance in a modded environment](images/Sildur.jpg)
 
-5. **MakeUp Ultra Fast**
+5. [**MakeUp Ultra Fast**](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)
    - If your PC needs mercy, this one is for you.
    - It still gives you that Shaders feel with much lower performance cost.
    - Great for players who want subtle improvements without turning their PC into a space heater.
@@ -131,6 +131,6 @@ And if you plan on playing with your friends, even better! With a couple of clic
 With the best server-grade hardware, automatic off-site backups (so even if something happens on Akliz's end, your world will be secure) and an expert team, your experience is guaranteed to be amazing.
 They have been doing this for over a decade. And since they are players themselves, they know exactly what's up, and will get down to fixing your server if stuff goes wrong.
 
-**All this to say**: Let Akliz handle the heavy and technical stuff, so you can just focus on taking screenshots of your world and doing whatever you want, without worrying about lag.
+**All this to say**: Let Akliz handle the heavy and technical stuff, so you can just focus on taking screenshots of your world and doing whatever you want, without worrying about lag. [Start your **Akliz** server today!](https://www.akliz.net/pricing) 
 
 **Anyway, this is what's keeping me hooked on Modded Minecraft in 2026. See you around in the modded dimension!**
