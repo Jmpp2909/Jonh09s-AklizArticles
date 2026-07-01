@@ -2,27 +2,28 @@
 
 Imagine you just spent a weekend building a huge factory or a floating wizard tower in a modpack. You step back to look at it, and it looks... flat. The blocks are there, the design is cool, but the lighting isn't doing it any justice.
 
-Then you watch a creator on YouTube playing the same pack as you, and their world looks so much better. You see god rays going through the trees, water reflecting the sky like a mirror, and the shadows actually have depth, not the usual blocky vanilla shadows. Suddenly their build looks like a game trailer, and your world looks like a screenshot from a different game.
+Then you watch a creator on YouTube playing the same pack as you, and their world looks so much better. You see light rays going through the trees, water reflecting the sky like a mirror, and the shadows actually have depth, not the usual blocky vanilla shadows. Suddenly their build looks like a game trailer, and your world looks like a screenshot from a different game.
 
 What do they have that you don't? You aren't missing a mod, you are missing shaders.
 
 ## What Are Shaders?
 Before you jump into using Shaders, I want to explain what they are.
 
-In vanilla Minecraft, light is like a spreadsheet. Put a torch down and that block becomes light level 14, next block drops to 13, and the game paints the world with that number grid. It's simple, it works, and... it is not pretty.
+In vanilla Minecraft, light is like a spreadsheet. Put a torch down and that block gets light level 14, next block drops to 13, and the game paints the world with that number grid. It's simple, it works, and... it is not pretty.
 
-A shader changes that by letting your GPU handle the visual work. Instead of Minecraft only deciding how bright each block should be, shaders just throw that logic away and implement their own system.
-Common features of shaders are real-time shadows, reflections, bloom, ambient light, water surface detail, and sky effects. The game still runs the same world, but it looks far more alive.
+A shader improves that by letting your GPU handle the visual work. Instead of Minecraft only deciding how bright each block should be, shaders just throw that logic out of the window and implement their own system.
 
-This is especially powerful in modded Minecraft. Big build projects, glowing machines, magical plants, and custom terrain all get a huge visual upgrade when shaders are layered over them.
+Common features of shaders are real-time shadows, reflections, bloom, ambient light, water surface detail, and sky effects.
 
-## A Brief History of Melting PCs
+This is especially powerful in modded Minecraft. Big build projects with animated blocks, glowing machines and custom terrain all get a huge visual upgrade when shaders are layered over them.
 
-There was a time when shaders meant one thing: OptiFine. It was the go-to mod (and... well... the only mod that did it), and it did a lot of good for the time. But it also had a rough reputation for compatibility issues, especially with other mods.
+## How Shaders Were Used Back In The Day
 
-OptiFine wasn't just about shaders tho. It also packed optimizations, FPS tweaks, better fog control, and performance options that helped players have good FPS. For a while, it was the one mod people installed when they wanted both good graphics and a smoother game.
+There was a time when shaders meant one thing: OptiFine. It was the go-to mod (and... well... the only mod that did it), and it was very good at the time. But it also had a rough reputation for compatibility issues, especially with other mods.
 
-In the early days, adding shaders to a modpack often felt like a gamble. You could spend an hour trying to get it to stop crashing, or dealing with weird issues. That time was the Dark Ages for people who just wanted their world to look better.
+OptiFine wasn't just about shaders tho, it also packed optimizations and more graphics options. For a while, it was the one mod people installed when they wanted both good graphics and a smoother game.
+
+But installing the Shaders themselves often felt like a gamble. You could spend an hour trying to get it to stop crashing, or dealing with weird issues. That time was the Dark Ages for people who just wanted their world to look better.
 
 Now we have a better setup. Modern shader-compatible mods let you run shaders more reliably than ever. They work with a wide range of packs, they boost your performance, and they make the whole process much less painful.
 
