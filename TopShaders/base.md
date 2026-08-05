@@ -18,8 +18,7 @@ Pro's and Cons
 Conclusion: 
 The secret: 
 Call to action:
-Server setup easier than ever (mention akliz ofc)
-
+Server setup easier than ever 
 ---
 Include bliss, and complementary
 https://www.curseforge.com/minecraft/shaders/bliss-shader
