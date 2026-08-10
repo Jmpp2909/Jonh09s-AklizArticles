@@ -29,8 +29,8 @@ Nowadays, we have a better setup. Modern rendering mods let you run Shaders more
 
 OptiFine was the original, but time didn't go easy on it. The new generation of high performance and Shader-friendly mods is what matters for Modded Minecraft today. Note that there are way more mods like these, I just picked the most popular and stable ones.
 
-- **Sodium** and **Embeddium**: Performance-focused rendering improvements. They make Minecraft feel smoother before Shaders even start.
-- **Iris** and **Oculus**: The modern Shader loaders. They act like a bridge between the game and the Shader packs.
+- **[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)** and **[Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium)**: Performance-focused rendering improvements. They make Minecraft feel smoother before Shaders even start.
+- **[Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)** and **[Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)**: The modern Shader loaders. They act like a bridge between the game and the Shader packs.
 
 That means you can run massive Modpacks with beautiful graphics without your game turning into a slideshow and your computer cosplaying as an expensive space heater.
 
@@ -55,7 +55,7 @@ With that out of the way, this is the part you are here for probably.
 
 These are the Shader packs I hand-picked for this article.
 
-1. **Complementary Unbound / Complementary Reimagined**
+1. **[Complementary Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) / [Complementary Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)**
    - Top spot for a reason: same engine, two different styles.
    - **Unbound** is smoother and more natural, while **Reimagined** is sharper and more dramatic.
    - Both deliver rich lighting, soft shadows, strong bloom, and excellent compatibility with modern Modpacks.
@@ -69,24 +69,24 @@ These are the Shader packs I hand-picked for this article.
 - **Left: Unbound**
 - **Right: Reimagined**
 
-2. **Bliss Shaders**
+2. **[Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)**
    - A strong balance of beautiful visuals and cinematic feel.
    - The skies are clean, the lighting is smooth, and it still runs well on mid-range PCs.
    - Excellent for modded bases where you want dramatic light without too much GPU stress.
    ![Bliss - Cinematic and Smooth ambience](images/Bliss.jpg)
 
-3. **BSL Shaders**
+3. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
    - A reliable classic.
    - Great mid-range performance and a crisp, polished look.
    - Works well with most modded packs and is a solid choice if you want something dependable.
    ![BSL - Clean and Crisp look](images/BSL.jpg)
 
-4. **Sildur's Vibrant Shaders**
+4. **[Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)**
    - Quality performance with customizable detail levels.
    - It’s especially good on packs where you want a colorful, vibrant world.
    ![Sildur's - Compromise between Quality and Performance](images/Sildur.jpg)
 
-5. **MakeUp Ultra Fast**
+5. **[MakeUp Ultra Fast](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)**
    - If your PC needs mercy, this one is for you.
    - It still gives you that Shader feel with much lower performance cost.
    - Great for players who want subtle improvements without turning their PC into a room heater.
