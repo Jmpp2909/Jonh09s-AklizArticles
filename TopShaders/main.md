@@ -21,7 +21,7 @@ There was a time when Shaders meant one thing: OptiFine. It was the go-to mod fo
 
 OptiFine wasn't just about Shaders though, it also packed optimizations and more graphics options. For a while, it was the one mod people installed when they wanted both good graphics and a smoother game. 
 
-But installing the Shaders themselves often felt like a gamble. You could spend an hour trying to get it to stop crashing, or get stuck dealing with weird issues. That time was the Dark Ages for people who just wanted their world to look better.
+But installing the Shaders themselves often felt like a gamble. You could spend an hour trying to get it to stop crashing or just get stuck dealing with weird issues. That time was the Dark Ages for people who just wanted their world to look better.
 
 Nowadays, we have a better setup. Modern rendering mods let you run Shaders more reliably than ever. They work with a wide range of mods, they boost your performance, and they make the whole process much more straightforward.
 
