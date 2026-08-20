@@ -1,0 +1,1 @@
+{"rule":"REPEATED_VERBS","sentence":"^\\QComplementary has 2 completely distinct visual style options you can choose: Reimagined Reimagines Minecraft while keeping its uniqueness, so you get that Shader feel without losing the game's essence.\\E$"}

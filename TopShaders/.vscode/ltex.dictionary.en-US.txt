@@ -3,3 +3,5 @@ modpacks
 Akliz
 modpack
 Modpacks
+NeoForge
+Embeddium
