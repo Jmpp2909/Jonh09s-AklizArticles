@@ -6,3 +6,4 @@ Modpacks
 NeoForge
 Embeddium
 Sildur
+MakeUp
