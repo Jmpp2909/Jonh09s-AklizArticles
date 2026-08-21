@@ -55,7 +55,7 @@ With that out of the way, this is the part you are here for probably.
 
 These are the Shader packs I hand-picked for this article.
 
-1 **[Complementary Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) / [Complementary Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)**
+### 1. **[Complementary Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) / [Complementary Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)**
   
   Kicking off with go-to Shaders of the modern days, the Complementary Shaders started as an edit of BSL Shaders in 2018, but have since then had a complete rewrite, and followed their own path.
 
@@ -77,24 +77,48 @@ These are the Shader packs I hand-picked for this article.
 - **Left: Unbound**
 - **Right: Reimagined**
 
-1. **[Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)**
-   - A strong balance of beautiful visuals and cinematic feel.
-   - The skies are clean, the lighting is smooth, and it still runs well on mid-range PCs.
-   - Excellent for modded bases where you want dramatic light without too much GPU stress.
+### 2. **[Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)**
+
+   Bliss Shaders started as an edit to `chocapic13`'s Shaders, by a dev that didn't know what they were doing, but they had 2 objectives: bring out their own visual goals into them, and learn how to make Shaders along the way.
+   
+   Nowadays, its one of the most used Shaders by players looking for a cinematic and clean feel!
+
+   Here are some of its strong points:
+   - Focus on atmosphere and clean realistic lighting;
+   - Flexible controls;
+   - Each Biome has its own mood and effects.
+
    ![Bliss - Cinematic and Smooth ambience](images/Bliss.jpg)
 
-2. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
-   - A reliable classic.
-   - Great mid-range performance and a crisp, polished look.
-   - Works well with most modded packs and is a solid choice if you want something dependable.
+### 3. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
+
+   BSL Shaders is a timeless classic, it first debuted around 2015, the 1.8 era, being actively maintained and developed through the years, and still is today. This Shader Pack is the father for tons of modern era Shader Packs, per example: Complementary Shaders (the one I already talked about earlier), Solas, Insanity and AstraLex.
+   
+   The objective of this Shader Pack is simple: make Minecraft look modern and beautiful without forcing players into a heavy or realistic style. 
+
+   What you can expect from this:
+   - A reliable and balanced classic with a crisp, polished look;
+   - Great mid-range performance;
+   - Amazing support for all kinds of resource/texture packs.
+
    ![BSL - Clean and Crisp look](images/BSL.jpg)
 
-3. **[Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)**
-   - Quality performance with customizable detail levels.
-   - It’s especially good on packs where you want a colorful, vibrant world.
+### 4. **[Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)**
+
+   Yet another classic, Sildur's Shaders date back as far as 2012, having versions from 1.7.10 up to the current version.
+   
+   The objective of this Shader Pack since its creation is to offer unmatched **universal accessibility**, so much so that even historically weak Integrated Intel Graphics or Mac computers can run it without issues, while still offering high-end visual effects and lighting.
+
+   Instead of going for the realistic style as most packs do, Sildur decided to go for his own style, so you can expect rich and vibrant colors focusing on a more cinematic and cozy look.
+
+   What you'll experience with this Shader Pack:
+   - Very high compatibility and performance with any kind of hardware or system;
+   - A cozy and vibrant world;
+   - Prominent compatibility with mods like Distant Horizons.
+  
    ![Sildur's - Compromise between Quality and Performance](images/Sildur.jpg)
 
-4. **[MakeUp Ultra Fast](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)**
+1. **[MakeUp Ultra Fast](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)**
    - If your PC needs mercy, this one is for you.
    - It still gives you that Shader feel with much lower performance cost.
    - Great for players who want subtle improvements without turning their PC into a room heater.
