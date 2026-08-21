@@ -53,7 +53,7 @@ With that out of the way, this is the part you are here for probably.
 
 ## Top 5 Shader Packs
 
-These are the Shader packs I hand-picked for this article.
+These are the Shader packs I hand-picked for this article. These are not ranked by simply "the best", but by things like: what they offer, compatibility with mods, performance and history. Pick what you feel that's best for your case, or try them all!
 
 ### 1. **[Complementary Unbound](https://www.curseforge.com/minecraft/shaders/complementary-unbound) / [Complementary Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined)**
   
@@ -77,7 +77,21 @@ These are the Shader packs I hand-picked for this article.
 - **Left: Unbound**
 - **Right: Reimagined**
 
-### 2. **[Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)**
+### 2. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
+
+   BSL Shaders is a timeless classic, it first debuted around 2015, the 1.8 era, being actively maintained and developed through the years, and still is today. This Shader Pack is the father for tons of modern era Shader Packs, per example: Complementary Shaders (the one I already talked about earlier), Solas, Insanity and AstraLex.
+   
+   The objective of this Shader Pack is simple: make Minecraft look modern and beautiful without forcing players into a heavy or realistic style. 
+
+   What you can expect from this:
+   - A reliable and balanced classic with a crisp, polished look;
+   - Great mid-range performance;
+   - Amazing support for all kinds of resource/texture packs.
+
+   ![BSL - Clean and Crisp look](images/BSL.jpg)
+
+
+### 3. **[Bliss Shaders](https://www.curseforge.com/minecraft/shaders/bliss-shader)**
 
    Bliss Shaders started as an edit to `chocapic13`'s Shaders, by a dev that didn't know what they were doing, but they had 2 objectives: bring out their own visual goals into them, and learn how to make Shaders along the way.
    
@@ -90,18 +104,6 @@ These are the Shader packs I hand-picked for this article.
 
    ![Bliss - Cinematic and Smooth ambience](images/Bliss.jpg)
 
-### 3. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
-
-   BSL Shaders is a timeless classic, it first debuted around 2015, the 1.8 era, being actively maintained and developed through the years, and still is today. This Shader Pack is the father for tons of modern era Shader Packs, per example: Complementary Shaders (the one I already talked about earlier), Solas, Insanity and AstraLex.
-   
-   The objective of this Shader Pack is simple: make Minecraft look modern and beautiful without forcing players into a heavy or realistic style. 
-
-   What you can expect from this:
-   - A reliable and balanced classic with a crisp, polished look;
-   - Great mid-range performance;
-   - Amazing support for all kinds of resource/texture packs.
-
-   ![BSL - Clean and Crisp look](images/BSL.jpg)
 
 ### 4. **[Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)**
 
@@ -118,11 +120,19 @@ These are the Shader packs I hand-picked for this article.
   
    ![Sildur's - Compromise between Quality and Performance](images/Sildur.jpg)
 
-1. **[MakeUp Ultra Fast](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)**
-   - If your PC needs mercy, this one is for you.
-   - It still gives you that Shader feel with much lower performance cost.
+### 5. **[MakeUp Ultra Fast](https://www.curseforge.com/minecraft/shaders/makeup-ultra-fast-shader)**
+   
+   Last but not least, MakeUp - Ultra Fast, the Shader Pack with a completely different vision from the rest: modular design.
+
+   This Shader is built with the sole purpose of giving full control to the player to design their own Shaders, meaning every single option doesn't just go from Low to High, but can also be toggled off - something that a lot of Shaders don't support -, every feature being optional allows you to fully adapt the Shader to your computer, which does wonders for low-end systems.
+
+   It features fully modular design, swappable color schemes, advanced features for high-end rigs, and it's tested for high compatibility across various environments, even mobile environments via emulators!
+   
+   What makes this one different:
+   - Shaders that adapt to your PC, instead of the other way around;
+   - Fully modular and customizable with tons of options and features;
    - Great for players who want subtle improvements without turning their PC into a room heater.
-   ![MakeUp - Shaders without the performance hit](images/MakeUp.jpg)
+   ![MakeUp - Modular Shaders without the performance hit](images/MakeUp.jpg)
 
 ## How To Use Them
 
