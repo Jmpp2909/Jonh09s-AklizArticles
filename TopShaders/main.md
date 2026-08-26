@@ -69,13 +69,8 @@ These are the Shader Packs I hand-picked for this article. These are not ranked 
   - **Reimagined** reimagines Minecraft while keeping its uniqueness, so you get that Shader feel without losing the game's essence.
   - **Unbound** is smoother and more realistic, giving you improved textures and effects.
 
-<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
-  <img src="images/Unbound.jpg" alt="Complementary Unbound - Smoother and Natural tones" width="480" />
-  <img src="images/Reimagined.jpg" alt="Complementary Reimagined - Sharper and Dramatic tones" width="480" />
-</div>
+![Complementary Reimagined vs Unbound](images/Complementary.png)
 
-- **Left: Unbound**
-- **Right: Reimagined**
 
 ### 2. **[BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)**
 
